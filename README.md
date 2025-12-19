@@ -14,7 +14,8 @@ The game runs in the terminal and uses colored output to represent letter states
   - 🟨 Yellow: correct letter, wrong position
   - ⬜ Grey: letter not in the word
 - On-screen keyboard updated after each attempt:
-  - Grey: not used
+  - white: not used
+  - Grey: letter not in the word
   - Green / Yellow: according to guesses
 - Limited number of attempts
 - Random word selection from a dictionary
