@@ -22,10 +22,10 @@ The game runs in the terminal and uses colored output to represent letter states
 
 ### Screenshots
 
-![Wordle Game 1](screenshots/Capture_wordle_game1.PNG)
-![Wordle Game 2](screenshots/Capture_wordle_game2.PNG)
-![Wordle Game 3](screenshots/Capture_wordle_game3.PNG)
-![Wordle Game 4](screenshots/Capture_wordle_game4.PNG)
+![Wordle Game 1](WORDLETPPROJECT/Capture_wordle_game1.PNG)
+![Wordle Game 2](WORDLETPPROJECT/Capture_wordle_game2.PNG)
+![Wordle Game 3](WORDLETPPROJECT/Capture_wordle_game3.PNG)
+![Wordle Game 4](WORDLETPPROJECT/Capture_wordle_game4.PNG)
 ## 🤖 Wordle Solver
 
 The solver automatically finds the correct word by:
