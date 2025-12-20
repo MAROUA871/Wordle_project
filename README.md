@@ -41,4 +41,4 @@ The solver automatically finds the correct word by:
 ### Compile
 `bash
 gcc wordle_game.c -o wordle_game
-gcc wordle_solver.c -o wordle_solver
+gcc solver.c -o solver
