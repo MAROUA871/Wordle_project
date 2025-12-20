@@ -34,7 +34,7 @@ The solver automatically finds the correct word by:
 - Refining guesses based on previous results
 
 ### Screenshots
-
+![solver 1](WORDLETPPROJECT/solver_screenshots/Capture_solver.PNG)
 
 ## ⚙️ How to Compile and Run
 
